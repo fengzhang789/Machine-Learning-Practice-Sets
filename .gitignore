@@ -1,5 +1,3 @@
 data.py
-linear-regression.ipynb
-matplotlib test.ipynb 
-single-variable-linear-regression.ipynb
-sigmoid-function.ipynb
+misc
+/venv
